@@ -1,0 +1,75 @@
+# Ultima revisão: 06/01/2024
+
+pip==23.3.2
+
+# Interface
+streamlit==1.29.0
+streamlit-authenticator==0.2.3
+streamlit_option_menu==0.3.6
+#extra-streamlit-components==0.1.60
+
+# Gerais
+pandas==2.1.4
+numpy==1.26.3
+
+# Utils
+Deprecated==1.2.14
+
+# Datas
+pandas_market_calendars
+workalendar==17.0.0
+
+# Web scraping
+selenium==4.16.0
+
+# Fontes de dados
+yfinance==0.2.33
+python-bcb==0.2.0
+sidrapy==0.1.4
+fundamentus==0.2.0
+quantstats==0.0.62
+
+# Gráficos
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+imgkit==1.2.3
+
+# Banco de dados
+pymongo==4.6.1
+
+# Importação de notas
+pdfplumber==0.10.3
+xlsxwriter==3.1.9
+
+# Recomendações de Segurança
+pillow==10.2.0
+pyarrow==14.0.1
+validators==0.21.0
+tornado==6.3.3
+
+# Backtesting
+backtrader==1.9.78.123
+# vectorbt
+
+# IA
+# flair==0.12.2
+# gdown==4.4.0
+# mpld3==0.3
+# tensorflow==2.13.0
+# Não sei bem...
+#jinja2==3.1.2
+#kaleido
+#webdriver-manager
+#holidays
+#scipy
+#backtrader
+#backtrader_plotting
+#tabulate==0.9.0
+#prettyprint
+#ta
+#pandas_ta
+#pandasai==0.6.7 -> minha conta não tem créditos
+#pyettj==0.3.0
+#IPython==8.19.0
+#pandas_datareader==0.10.0
